@@ -1,0 +1,19 @@
+#geral {
+    position: absolute;
+    background-color: cyan;
+    width: 100px;
+    height: 200px;
+    background-color: black;
+}
+#coluna01 {
+    width: 100%;
+    height: 40%;;
+}
+#coluna02 {
+    width: 100%;
+    height: 40%;
+}
+#coluna03 {
+    width: 100%;
+    height: 40%;
+}
