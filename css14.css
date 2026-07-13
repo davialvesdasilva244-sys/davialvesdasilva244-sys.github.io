@@ -21,17 +21,20 @@
     background-color: yellowgreen;
     width: 35%;
     height: 10%;
-    color: white;
+    color: black;
+    float: left;
 }
 #geral #coluna02 {
     background-color: blue;
-    width: 35%;
+    width: 30%;
     height: 10%;
-    color: white;
+    color: black;
+    float: left;
 }
 #geral #coluna03 {
     background-color: pink;
-    width: 35%;
+    width: 30%;
     height: 10%;
-    color: white;
+    /*float: left;*/
+    clear: both;
 }
